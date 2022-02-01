@@ -6,4 +6,4 @@
 
 ## UX Journal
 
-[My first journal entry on my refrigerator](/refrigerator)
+[My first journal entry on my refrigerator](refrigerator/)
